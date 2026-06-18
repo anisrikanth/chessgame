@@ -1,3 +1,3 @@
 # Python CLI Chess Engine
 
-A single-file chess engine featuring a recursive Minimax AI opponent.
+My submission to the Recurse Center. A single-file chess engine featuring a recursive Minimax AI opponent.
